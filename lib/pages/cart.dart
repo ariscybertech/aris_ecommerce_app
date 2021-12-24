@@ -1,7 +1,6 @@
 import 'package:ecommerce_app/pages/home.dart';
 import 'package:flutter/material.dart';
 
-import 'package:ecommerce_app/main.dart';
 import 'package:ecommerce_app/components/cart_products.dart';
 
 class Cart extends StatefulWidget {
